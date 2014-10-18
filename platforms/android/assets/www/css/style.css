@@ -1,0 +1,30 @@
+.mainbcg{
+	position: absolute;
+	background: url("img/Background.jpg") !important;
+	height: 100%;
+	width: 100%;
+}
+
+.ui-icon-c_home
+{
+    background: url('img/settings.png') 1% 1% no-repeat rgba(0, 0, 0, 0.4) !important;
+}
+
+.teste{
+	color: pink;
+}
+
+.div_botao{
+	background-color: blue;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 30%;
+
+	-webkit-box-shadow: 0px 0px 33px 24px rgba(92,88,92,1);
+	-moz-box-shadow: 0px 0px 33px 24px rgba(92,88,92,1);
+	box-shadow: 0px 0px 33px 24px rgba(92,88,92,1);
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
+
