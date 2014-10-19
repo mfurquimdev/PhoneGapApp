@@ -1,13 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.example.hello" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <preference name="loglevel" value="DEBUG" />
-    <name>HelloWorld</name>
+    <name>Mapa do Icaro</name>
     <description>
-        A sample Apache Cordova application that responds to the deviceready event.
+        Testando, Testando e Testando!
     </description>
-    <author email="dev@cordova.apache.org" href="http://cordova.io">
-        Apache Cordova Team
+    <author email="icaroifg@uvic.ca" href="http://cordova.io">
+	        Icaro F. G.
     </author>
     <content src="index.html" />
     <access origin="*" />
+    <icon density="mdpi" height="57" platform="ios" src="www/img/ICON.png" width="57" />
 </widget>
