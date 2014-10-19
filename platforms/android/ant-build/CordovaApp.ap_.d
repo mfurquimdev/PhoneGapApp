@@ -35,8 +35,13 @@ C:\Users\Icaroo\Desktop\MAP Project\HTML\hello\platforms\android\assets\www\css 
 C:\Users\Icaroo\Desktop\MAP Project\HTML\hello\platforms\android\assets\www\img \
 C:\Users\Icaroo\Desktop\MAP Project\HTML\hello\platforms\android\assets\www\index.html \
 C:\Users\Icaroo\Desktop\MAP Project\HTML\hello\platforms\android\assets\www\js \
+C:\Users\Icaroo\Desktop\MAP Project\HTML\hello\platforms\android\assets\www\css\img \
 C:\Users\Icaroo\Desktop\MAP Project\HTML\hello\platforms\android\assets\www\css\index.css \
-C:\Users\Icaroo\Desktop\MAP Project\HTML\hello\platforms\android\assets\www\css\style.css \
+C:\Users\Icaroo\Desktop\MAP Project\HTML\hello\platforms\android\assets\www\css\img\Background.jpg \
+C:\Users\Icaroo\Desktop\MAP Project\HTML\hello\platforms\android\assets\www\css\img\friend.png \
+C:\Users\Icaroo\Desktop\MAP Project\HTML\hello\platforms\android\assets\www\css\img\home.jpg \
+C:\Users\Icaroo\Desktop\MAP Project\HTML\hello\platforms\android\assets\www\css\img\logo.png \
+C:\Users\Icaroo\Desktop\MAP Project\HTML\hello\platforms\android\assets\www\css\img\settings.png \
 C:\Users\Icaroo\Desktop\MAP Project\HTML\hello\platforms\android\assets\www\img\Background.jpg \
 C:\Users\Icaroo\Desktop\MAP Project\HTML\hello\platforms\android\assets\www\img\friend.png \
 C:\Users\Icaroo\Desktop\MAP Project\HTML\hello\platforms\android\assets\www\img\home.jpg \

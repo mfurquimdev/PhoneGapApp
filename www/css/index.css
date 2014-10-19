@@ -1,8 +1,15 @@
-.mainbcg{
-	position: absolute;
-	background: url("img/Background.jpg") !important;
-	height: 100%;
-	width: 100%;
+body {
+    background: url("img/Background.jpg");
+    background-repeat:repeat-y;
+    background-position:center center;
+    background-attachment:scroll;
+    background-size:cover;
+}
+.ui-page {
+    background: transparent;
+}
+.ui-content{
+    background: transparent;
 }
 
 .ui-icon-c_home
@@ -18,7 +25,7 @@
 	background-color: blue;
 	margin-left: 10%;
 	margin-right: 10%;
-	margin-top: 30%;
+	margin-top: 50%;
 
 	-webkit-box-shadow: 0px 0px 33px 24px rgba(92,88,92,1);
 	-moz-box-shadow: 0px 0px 33px 24px rgba(92,88,92,1);
